@@ -1,6 +1,9 @@
 # Projects
-**Blinkit**
-This dashboard offers actionable insights into Blinkit's operations, showcasing sales distribution, customer preferences, and outlet performance. It helps stakeholders analyze KPIs, track trends, and make data-driven decisions for business growth and optimization.
+**Blinkit Sales Data Analysis**
+Blinkit Sales Data Analysis – Power BI Project
+- Sales Performance Analysis: Developed an interactive Power BI dashboard to monitor key performance indicators (KPIs), including Total Sales, Average Sales, Number of Items, and Average Customer Rating, providing an overview of overall business performance.
+- Outlet & Product Analysis: Analyzed sales across item types, fat content, outlet sizes, outlet locations, outlet types, and establishment years to identify key sales contributors and compare outlet performance.
+- Interactive Visualization & Insights: Utilized Power BI, Power Query, and DAX to create dynamic KPI cards, charts, filters, and trend analysis, enabling users to explore sales patterns and support data-driven business decisions.
 
 **Credit Card Risk Assesment**
 Risk Assessment of Credit Card Customers
